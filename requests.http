@@ -1,0 +1,6 @@
+POST http://localhost:3000/body_query
+Content-Type: application/json
+
+{
+  "message": "Meghan is cool"
+}
